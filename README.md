@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tripathivinay82
+- 👋 Hi, I’m Vinay 
 - 👀 I’m interested in network engineering and automation
 - 🌱 I’m currently learning networking applications with python
 - 💞️ I’m looking to collaborate on network automation
